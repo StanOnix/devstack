@@ -459,7 +459,7 @@ function create_volume_types {
             be_type=${be%%:*}
             be_name=${be##*:}
             # openstack volume type create --property volume_backend_name="${be_type}" ${be_name}
-            cinder type-create ${be_type} && \
+            cinder type-create ${be_name} && \
                 cinder type-key ${be_name} set volume_backend_name="${be_name}"
         done
     fi
