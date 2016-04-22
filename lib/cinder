@@ -1,3 +1,53 @@
+
+Skip to content
+This repository
+
+    Pull requests
+    Issues
+    Gist
+
+    @StanOnix
+
+244
+1,210
+
+    980
+
+openstack-dev/devstack
+Code
+Pull requests 0
+Pulse
+Graphs
+devstack/lib/cinder
+95b994d on Apr 19, 2015
+@j-griffith j-griffith Add logging config to cinder.conf
+@dtroyer
+@afazekas
+@j-griffith
+@vuntz
+@jamielennox
+@matelakat
+@jogo
+@sdague
+@ttx
+@gkotton
+@ianw
+@rcritten
+@brantlk
+@gfidente
+@mriedem
+@amotoki
+@dprince
+@Thingee
+@stevemart
+@mulcahys
+@marun
+@markmc
+@yac
+@jvalderrama
+@emonty
+@otherwiseguy
+484 lines (400 sloc) 17.1 KB
 #!/bin/bash
 #
 # lib/cinder
@@ -481,3 +531,8 @@ $XTRACE
 ## Local variables:
 ## mode: shell-script
 ## End:
+
+    Status API Training Shop Blog About 
+
+    © 2016 GitHub, Inc. Terms Privacy Security Contact Help 
+
