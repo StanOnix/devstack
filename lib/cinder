@@ -476,13 +476,3 @@ function create_cinder_volume_group {
 
 # Restore xtrace
 $XTRACE
-
-# Tell emacs to use shell-script-mode
-## Local variables:
-## mode: shell-script
-## End:
-
-    Status API Training Shop Blog About 
-
-    © 2016 GitHub, Inc. Terms Privacy Security Contact Help 
-
